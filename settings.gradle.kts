@@ -1,0 +1,1 @@
+rootProject.name = "me.injent.policy_server"
